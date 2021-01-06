@@ -1,1 +1,27 @@
-
+{
+  "vmservices2": [
+    {
+      "name": "vm5",
+      "service": "running"
+    },
+    {
+      "name": "vm6",
+      "service": "running"
+    },
+    {
+      "name": "vm8",
+      "service": "running"
+    },
+    {
+      "name": "vm10",
+      "service": "error"
+    },
+    {
+      "name": "vm12",
+      "service": "running"
+    }
+    
+ ] 
+    
+}
+    
