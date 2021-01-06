@@ -1,0 +1,52 @@
+{
+  "vmservices": [
+    {
+      "name": "vm1",
+      "service": "running"
+    },
+    {
+      "name": "vm2",
+      "service": "running"
+    },
+    {
+      "name": "vm3",
+      "service": "running"
+    },
+    {
+      "name": "vm4",
+      "service": "running"
+    },
+    {
+      "name": "vm5",
+      "service": "error"
+    },
+    {
+      "name": "vm6",
+      "service": "stopped"
+    },
+    {
+      "name": "vm7",
+      "service": "running"
+    },
+    {
+      "name": "vm8",
+      "service": "stopped"
+    },
+        {
+      "name": "vm9",
+      "service": "running"
+    },
+    {
+      "name": "vm10",
+      "service": "error"
+    },
+    {
+      "name": "vm11",
+      "service": "running"
+    },
+    {
+      "name": "vm12",
+      "service": "stopped"
+    }
+  ]
+}
