@@ -2,62 +2,62 @@
   "vmservices": [
     {
       "name": "vm1",
-      "service": "running"
+      "service": "running",
       "disk usage": "20%"
     },
     {
       "name": "vm2",
-      "service": "running"
+      "service": "running",
       "disk usage": "63%"
     },
     {
       "name": "vm3",
-      "service": "running"
+      "service": "running",
       "disk usage": "37%"
     },
     {
       "name": "vm4",
-      "service": "running"
+      "service": "running",
       "disk usage": "48%"
     },
     {
       "name": "vm5",
-      "service": "error"
+      "service": "error",
       "disk usage": "10%"
     },
     {
       "name": "vm6",
-      "service": "stopped"
+      "service": "stopped",
       "disk usage": "23%"
     },
     {
       "name": "vm7",
-      "service": "running"
+      "service": "running",
       "disk usage": "65%"
     },
     {
       "name": "vm8",
-      "service": "stopped"
+      "service": "stopped",
       "disk usage": "20%"
     },
         {
       "name": "vm9",
       "service": "running"
-      "disk usage": "25%"
+      "disk usage": "25%",
     },
     {
       "name": "vm10",
-      "service": "error"
+      "service": "error",
       "disk usage": "4%"
     },
     {
       "name": "vm11",
-      "service": "running"
+      "service": "running",
       "disk usage": "50%"
     },
     {
       "name": "vm12",
-      "service": "stopped"
+      "service": "stopped",
       "disk usage": "35%"
     }
   ]
