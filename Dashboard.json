@@ -42,8 +42,8 @@
     },
         {
       "name": "vm9",
-      "service": "running"
-      "disk usage": "25%",
+      "service": "running",
+      "disk usage": "25%"
     },
     {
       "name": "vm10",
