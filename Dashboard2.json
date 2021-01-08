@@ -2,23 +2,28 @@
   "vmservices2": [
     {
       "name": "vm5",
-      "service": "running"
+      "service": "running",
+      "disk usgae": "20%"
     },
     {
       "name": "vm6",
-      "service": "running"
-    },
+      "service": "running",
+      "disk usage": "34%"
+        },
     {
       "name": "vm8",
-      "service": "running"
+      "service": "running",
+      "disk usage": "65%"
     },
     {
       "name": "vm10",
-      "service": "error"
+      "service": "error",
+      "disk usage": "34%"
     },
     {
       "name": "vm12",
-      "service": "running"
+      "service": "running",
+      "disk usage": "27%"
     }
     
  ] 
