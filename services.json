@@ -1,0 +1,64 @@
+{
+  "services": [
+    {
+      "name": "ac",
+      "service": "running",
+      "disk usage": "20%"
+    },
+    {
+      "name": "acc",
+      "service": "running",
+      "disk usage": "63%"
+    },
+    {
+      "name": "acv",
+      "service": "running",
+      "disk usage": "37%"
+    },
+    {
+      "name": "acf",
+      "service": "running",
+      "disk usage": "48%"
+    },
+    {
+      "name": "ach",
+      "service": "error",
+      "disk usage": "10%"
+    },
+    {
+      "name": "acj",
+      "service": "stopped",
+      "disk usage": "23%"
+    },
+    {
+      "name": "acq",
+      "service": "running",
+      "disk usage": "65%"
+    },
+    {
+      "name": "bc",
+      "service": "stopped",
+      "disk usage": "20%"
+    },
+        {
+      "name": "bcc",
+      "service": "running",
+      "disk usage": "25%"
+    },
+    {
+      "name": "bcx",
+      "service": "error",
+      "disk usage": "4%"
+    },
+    {
+      "name": "bcn",
+      "service": "running",
+      "disk usage": "50%"
+    },
+    {
+      "name": "bcm",
+      "service": "stopped",
+      "disk usage": "35%"
+    }
+  ]
+}
