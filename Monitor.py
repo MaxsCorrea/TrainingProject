@@ -2,8 +2,6 @@ import json
 import logging
 
 
-
-
 #open json data
 with open('services.json') as f:
     data = json.load(f)
