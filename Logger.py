@@ -2,7 +2,7 @@ import logging
 
 # Logger configuration
 LOG_FORMAT = "%(levelname)s %(asctime)s - %(message)s"
-logging.basicConfig(filename= r"C:\Users\Maximiliano\Documents\TrainingProject-main\TrainingProject-main\Monitoring.log",
+logging.basicConfig(filename= r"C:\Users\Maximiliano\Documents\TrainingProject\Monitoring.log",
                     level= logging.DEBUG, 
                     format=LOG_FORMAT, 
                     filemode='w')

@@ -1,0 +1,5 @@
+DEBUG 2021-01-11 13:32:46,881 - Debuggin services...
+INFO 2021-01-11 13:32:46,881 - The service is health
+WARNING 2021-01-11 13:32:46,881 - A service reboot will be good
+ERROR 2021-01-11 13:32:46,881 - Some Services are not working correctly
+CRITICAL 2021-01-11 13:32:46,881 - service DOWN!!!
