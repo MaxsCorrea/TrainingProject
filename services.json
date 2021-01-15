@@ -2,62 +2,86 @@
   "services": [
     {
       "name": "ac",
+      "version": "1.0.8",
       "service": "running",
+      "url": "https://portal.azure.com/#home",
       "disk usage": "20%"
     },
     {
       "name": "acc",
+      "version": "1.0.8",
       "service": "running",
+      "url": "https://portal.azure.com/#home",
       "disk usage": "63%"
     },
     {
       "name": "acv",
+      "version": "1.0.8",
       "service": "running",
+      "url": "https://portal.azure.com/#home",
       "disk usage": "37%"
     },
     {
       "name": "acf",
+      "version": "1.0.8",
       "service": "running",
+      "url": "https://portal.azure.com/#home",
       "disk usage": "48%"
     },
     {
       "name": "ach",
+      "version": "1.0.8",
       "service": "error",
+      "url": "https://portal.azure.com/#home",
       "disk usage": "10%"
     },
     {
       "name": "acj",
+      "version": "1.0.8",
       "service": "stopped",
+      "url": "https://portal.azure.com/#home",
       "disk usage": "23%"
     },
     {
       "name": "acq",
+      "version": "1.0.8",
       "service": "running",
+      "url": "https://portal.azure.com/#home",
       "disk usage": "65%"
     },
     {
       "name": "bc",
+      "version": "1.0.8",
       "service": "stopped",
+      "url": "https://portal.azure.com/#home",
       "disk usage": "20%"
     },
         {
       "name": "bcc",
+      "version": "1.0.8",
       "service": "running",
+      "url": "https://portal.azure.com/#home",
       "disk usage": "25%"
     },
     {
       "name": "bcx",
+      "version": "1.0.8",
       "service": "error",
+      "url": "https://portal.azure.com/#home",
       "disk usage": "4%"
     },
     {
       "name": "bcn",
+      "version": "1.0.8",
       "service": "running",
+      "url": "https://portal.azure.com/#home",
       "disk usage": "50%"
     },
     {
       "name": "bcm",
+      "version": "1.0.8",
       "service": "stopped",
+      "url": "https://portal.azure.com/#home",
       "disk usage": "35%"
     }
   ]
