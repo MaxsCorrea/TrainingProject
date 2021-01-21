@@ -19,7 +19,7 @@
       "version": "1.0.8",
       "service": "running",
       "url": "https://portal.azure.com/#home",
-      "disk usage": "37%"
+      "disk usage": "47%"
     },
     {
       "name": "acf",
@@ -40,7 +40,7 @@
       "version": "1.0.8",
       "service": "stopped",
       "url": "https://portal.azure.com/#home",
-      "disk usage": "23%"
+      "disk usage": "43%"
     },
     {
       "name": "acq",
@@ -75,7 +75,7 @@
       "version": "1.0.8",
       "service": "running",
       "url": "https://portal.azure.com/#home",
-      "disk usage": "50%"
+      "disk usage": "45%"
     },
     {
       "name": "bcm",
