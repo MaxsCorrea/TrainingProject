@@ -11,7 +11,7 @@ def get_data():
 
 data = get_data()
 
-def add_data(p):
+def service_data(p):
     print('Services:')
 
     for service in p['services']:
@@ -19,13 +19,24 @@ def add_data(p):
 
 def print_service_disk_usages(data):
     print('Disk Usage:')
+
     for service in data['services']:
         print(f'{service["name"]}:\t{service["disk usage"]}')
 
-def print_version(data):
+def print_service_version(data):
     print('Version:')
+
     for service in data['services']:
-        print(f'{service["version"]}')
+        print(service['name'],":", service['version'])
+
+def service_url(data):
+    print('Url:')
+
+    for service in data['services']:
+        print(service['name'],":", service['url'])
+
+
+
 
 #adding parameters
 parser = argparse.ArgumentParser()
@@ -47,16 +58,17 @@ parser.add_argument("-v",
 args = parser.parse_args()
 
 if args.fullreport:
-    add_data(data)
-    print_service_disk_usages(data)
-    print_version
-elif args.graphreport:
+    service_data(data)
+    print_service_version(data)
+    service_url(data)
+    print_service_disk_usages(data)    
+if args.graphreport:
     print("Añadir funcionalidad")
-elif args.services:
-    add_data(data)
-elif args.version:
-    print_version   
-elif args.diskusage:
+if args.services:
+    service_data(data)
+if args.version:
+    print_service_version(data)   
+if args.diskusage:
     print_service_disk_usages(data)
 
   
