@@ -2,7 +2,6 @@ import json
 import argparse
 import logging
 
-
 #set up json file
 def get_data():
     with open('services.json') as f:
@@ -43,9 +42,6 @@ parser = argparse.ArgumentParser()
 parser.add_argument("-f",
                     "--fullreport",
                     help="printing the full report")
-parser.add_argument("-g",
-                    "--graphreport",
-                    help="printing the graph report")
 parser.add_argument("-s",
                     "--services",
                     help="services to be test")
@@ -62,8 +58,6 @@ if args.fullreport:
     print_service_version(data)
     service_url(data)
     print_service_disk_usages(data)    
-if args.graphreport:
-    print("Añadir funcionalidad")
 if args.services:
     service_data(data)
 if args.version:
