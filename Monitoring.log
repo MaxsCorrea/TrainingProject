@@ -1,25 +1,25 @@
-DEBUG 2021-01-21 11:07:42,350 - Debuggin services...
-INFO 2021-01-21 11:07:42,350 - Service ac service running
-INFO 2021-01-21 11:07:42,350 - Service acc service running
-INFO 2021-01-21 11:07:42,350 - Service acv service running
-INFO 2021-01-21 11:07:42,350 - Service acf service running
-CRITICAL 2021-01-21 11:07:42,350 - Service ach service error. Review ASAP
-WARNING 2021-01-21 11:07:42,350 - Service acj service stopped
-INFO 2021-01-21 11:07:42,350 - Service acq service running
-WARNING 2021-01-21 11:07:42,350 - Service bc service stopped
-INFO 2021-01-21 11:07:42,350 - Service bcc service running
-CRITICAL 2021-01-21 11:07:42,350 - Service bcx service error. Review ASAP
-INFO 2021-01-21 11:07:42,350 - Service bcn service running
-WARNING 2021-01-21 11:07:42,351 - Service bcm service stopped
-INFO 2021-01-21 11:07:42,352 - Service ac disk usage 20.0%
-ERROR 2021-01-21 11:07:42,352 - Service acc disk usage 63.0% overheated disk
-WARNING 2021-01-21 11:07:42,352 - Service acv disk usage 47.0% please check the disk
-WARNING 2021-01-21 11:07:42,352 - Service acf disk usage 48.0% please check the disk
-INFO 2021-01-21 11:07:42,352 - Service ach disk usage 10.0%
-WARNING 2021-01-21 11:07:42,352 - Service acj disk usage 43.0% please check the disk
-ERROR 2021-01-21 11:07:42,352 - Service acq disk usage 65.0% overheated disk
-INFO 2021-01-21 11:07:42,352 - Service bc disk usage 20.0%
-INFO 2021-01-21 11:07:42,352 - Service bcc disk usage 25.0%
-INFO 2021-01-21 11:07:42,352 - Service bcx disk usage 4.0%
-WARNING 2021-01-21 11:07:42,352 - Service bcn disk usage 45.0% please check the disk
-INFO 2021-01-21 11:07:42,352 - Service bcm disk usage 35.0%
+DEBUG 2021-01-22 16:21:58,127 - Debuggin services...
+INFO 2021-01-22 16:21:58,129 - Service ac service running
+INFO 2021-01-22 16:21:58,129 - Service acc service running
+INFO 2021-01-22 16:21:58,129 - Service acv service running
+INFO 2021-01-22 16:21:58,129 - Service acf service running
+CRITICAL 2021-01-22 16:21:58,129 - Service ach service error. Review ASAP
+WARNING 2021-01-22 16:21:58,129 - Service acj service stopped
+INFO 2021-01-22 16:21:58,129 - Service acq service running
+WARNING 2021-01-22 16:21:58,129 - Service bc service stopped
+INFO 2021-01-22 16:21:58,129 - Service bcc service running
+CRITICAL 2021-01-22 16:21:58,129 - Service bcx service error. Review ASAP
+INFO 2021-01-22 16:21:58,129 - Service bcn service running
+WARNING 2021-01-22 16:21:58,129 - Service bcm service stopped
+INFO 2021-01-22 16:21:58,129 - Service ac disk usage 20.0%
+ERROR 2021-01-22 16:21:58,129 - Service acc disk usage 63.0% overheated disk
+WARNING 2021-01-22 16:21:58,129 - Service acv disk usage 47.0% please check the disk
+WARNING 2021-01-22 16:21:58,129 - Service acf disk usage 48.0% please check the disk
+INFO 2021-01-22 16:21:58,129 - Service ach disk usage 10.0%
+WARNING 2021-01-22 16:21:58,129 - Service acj disk usage 43.0% please check the disk
+ERROR 2021-01-22 16:21:58,129 - Service acq disk usage 65.0% overheated disk
+INFO 2021-01-22 16:21:58,129 - Service bc disk usage 20.0%
+INFO 2021-01-22 16:21:58,129 - Service bcc disk usage 25.0%
+INFO 2021-01-22 16:21:58,130 - Service bcx disk usage 4.0%
+WARNING 2021-01-22 16:21:58,130 - Service bcn disk usage 45.0% please check the disk
+INFO 2021-01-22 16:21:58,130 - Service bcm disk usage 35.0%
