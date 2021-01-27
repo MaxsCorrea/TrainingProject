@@ -5,7 +5,7 @@
       "version": "1.0.8",
       "service": "running",
       "url": "https://portal.azure.com/#home",
-      "disk usage": "20%"
+      "disk usage": "42%"
     },
     {
       "name": "acc",
@@ -68,7 +68,7 @@
       "version": "1.0.8",
       "service": "error",
       "url": "https://portal.azure.com/#home",
-      "disk usage": "4%"
+      "disk usage": "14%"
     },
     {
       "name": "bcn",
