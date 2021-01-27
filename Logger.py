@@ -24,7 +24,7 @@ logger.debug("Debuggin services...")
 for s in data["services"]:
     sr = (s["service"])
     if "stopped" == sr:
-        logger.warning(f'Service {s["name"]} service stopped')
+        logger.warning(f'Service {s["name"]} service stopped. Bounce needed')
     elif "error" == sr:
         logger.critical(f'Service {s["name"]} service error. Review ASAP')
     elif "running" == sr:
