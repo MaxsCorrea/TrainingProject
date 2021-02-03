@@ -1,0 +1,13 @@
+name,version,service,url,disk usage
+ac,1.0.8,running,https://portal.azure.com/#home,42%
+acc,1.0.8,running,https://portal.azure.com/#home,63%
+acv,1.0.8,running,https://portal.azure.com/#home,47%
+acf,1.0.8,running,https://portal.azure.com/#home,48%
+ach,1.0.8,error,https://portal.azure.com/#home,10%
+acj,1.0.8,stopped,https://portal.azure.com/#home,43%
+acq,1.0.8,running,https://portal.azure.com/#home,65%
+bc,1.0.8,stopped,https://portal.azure.com/#home,20%
+bcc,1.0.8,running,https://portal.azure.com/#home,25%
+bcx,1.0.8,error,https://portal.azure.com/#home,14%
+bcn,1.0.8,running,https://portal.azure.com/#home,45%
+bcm,1.0.8,stopped,https://portal.azure.com/#home,35%
